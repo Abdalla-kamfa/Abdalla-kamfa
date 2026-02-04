@@ -47,6 +47,6 @@ A comprehensive web application connecting students with courses and community r
 ### 🌟 Community & Interests
 * **Volunteer:** Executive Member, Sudanese Students Community (SSC).
 * **Content Creator:** Founder of "Kata Hati" YouTube Channel (Malaysian History & Mystery).
-* **Languages:** Arabic, English, Malay.
+* **Languages:** Arabic, English, Hindi.
 
 📫 **Reach me:** [kamfa955@gmail.com] | [[Linkedin](https://www.linkedin.com/in/abdallaidris/)]
