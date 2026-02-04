@@ -49,4 +49,4 @@ A comprehensive web application connecting students with courses and community r
 * **Content Creator:** Founder of "Kata Hati" YouTube Channel (Malaysian History & Mystery).
 * **Languages:** Arabic, English, Malay.
 
-📫 **Reach me:** [kamfa955@gmail.com] | [[Your LinkedIn Link](https://www.linkedin.com/in/abdallaidris/)]
+📫 **Reach me:** [kamfa955@gmail.com] | [[Linkedin](https://www.linkedin.com/in/abdallaidris/)]
