@@ -1,30 +1,44 @@
-# Hi, I'm Abdalla Idris (Kamfa) 👋
+# Abdalla Idris · `~/abdalla-kamfa`
 
-Student at Albukhary International University, Malaysia.
-I build web apps that solve real problems for students.
+**Full-stack developer — TypeScript · React · Next.js · Node.js — building AI agents.**
 
-## 🚀 What I'm Building
+I take products from idea to production alone: design, code, deploy, iterate.
+Built solo. Used daily.
 
-
-### Focus Flw — Student Productivity App
-> Free Pomodoro timer, assignment tracker, flashcards, 
-> and study tools for university students.
-
-**Live:** [focusflowstudy.com](https://focusflowstudy.com)  
-**Stack:** React · TypeScript · Vite · Zustand · PWA
+🟢 **Open to work — full-time & freelance** · [Portfolio](https://REPLACE-WITH-YOUR-PORTFOLIO-URL) · [LinkedIn](https://www.linkedin.com/in/abdallaidris/) · [kamfa955@gmail.com](mailto:kamfa955@gmail.com)
 
 ---
 
-## 🛠️ Tech I Work With
+## What I'm building
 
-**Frontend:** React · TypeScript · Tailwind CSS · Vite  
-**Tools:** Git · Vercel · Figma  
-**Learning:** Node.js · Supabase · React Native
+| Project | What it is | Status |
+|---|---|---|
+| **[Focus Flow](https://focusflowstudy.com)** | Free all-in-one study app — Pomodoro, assignment tracker, spaced-repetition flashcards. Offline-first PWA: data stays on the device. | 🟢 Live, with daily users |
+| **KAMFA** | Agentic AI CLI for authorized pentesting. Every action the agent wants to take — shell command, HTTP request, browser step — stops at a permission gate for human approval. TypeScript / Node.js. | 🟡 Private beta — I run it daily |
+| **Saut** | System-wide voice-to-text dictation for the desktop, built in Rust. Hold a hotkey, speak, and clean text lands in whatever app has focus. Transcription runs on-device — works offline. | 🔵 In development |
 
----
+## How I work
 
-## 📫 Reach Me
+- **End to end** — Focus Flow went from idea to production, solo: product, code, deploy, real users.
+- **Local-first by default** — software should work offline and respect the people using it.
+- **Human-in-the-loop AI** — KAMFA's core design rule: the agent asks before it acts. Always.
 
-- 🌐 [focusflowstudy.com](https://focusflowstudy.com)
-- 💼 [LinkedIn](https://linkedin.com/in/abdallaidris)
-- 📧 kamfa955@gmail.com
+## Stack
+
+**Daily:** TypeScript · JavaScript · React · Next.js · Node.js · Tailwind CSS
+**Web platform:** PWAs & Service Workers · offline-first / local-first data · accessible UI
+**AI & agents:** LLM agents & tool calling · human-in-the-loop design · CLI tooling
+**Learning in public:** Rust · web security fundamentals
+
+## Get in touch
+
+```text
+kamfa — permission request
+──────────────────────────────────────────────
+action    contact abdalla-kamfa
+context   hiring · freelance · interesting problems
+risk      low
+approve?  [Y/n] y — auto-approved. always.
+```
+
+📧 [kamfa955@gmail.com](mailto:kamfa955@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/abdallaidris/)
