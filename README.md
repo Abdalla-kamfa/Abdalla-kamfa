@@ -1,5 +1,5 @@
 # Abdalla Idris · `~/abdalla-kamfa`
-
+ 
 **Full-stack developer — TypeScript · React · Next.js · Node.js — building AI agents.**
 
 I take products from idea to production alone: design, code, deploy, iterate.
