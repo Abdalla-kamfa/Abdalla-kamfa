@@ -15,7 +15,7 @@ Built solo. Used daily.
 |---|---|---|
 | **[Focus Flow](https://focusflowstudy.com)** | Free all-in-one study app — Pomodoro, assignment tracker, spaced-repetition flashcards. React + Supabase PWA that keeps working offline after sign-in. Localized in English, French, and Arabic (RTL included). | 🟢 Live — nearly 1,000 users |
 | **KAMFA** | Agentic AI CLI for authorized pentesting. Every action the agent wants to take — shell command, HTTP request, browser step — stops at a permission gate for human approval. TypeScript / Node.js. | 🟡 Private beta — I run it daily |
-| **Saut** | System-wide voice-to-text dictation for the desktop, built in Rust. Hold a hotkey, speak, and clean text lands in whatever app has focus. Transcription runs on-device — works offline. | 🔵 In development |
+| **Saut** | System-wide voice-to-text dictation for the desktop, built in Rust. Hold a hotkey, speak, and clean text lands in whatever app has focus. Transcription runs on-device — works offline. | 🟢 Live|
 
 ## How I work
 
